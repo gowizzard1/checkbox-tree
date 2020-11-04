@@ -1,0 +1,12 @@
+{
+  "name": "react-checkbox-tree-example",
+  "version": "1.0.0",
+  "description": "A reference point for issues submitted to react-checkbox-tree.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-checkbox-tree": "1.5.1",
+    "react-dom": "16.8.6"
+  }
+}
